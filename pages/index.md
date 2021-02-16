@@ -4,10 +4,10 @@ title: An Alternative Old Kent Road
 permalink: /
 section: home
 intro_paragraph: >-
-  ![](/assets/img/uploads/okr.gif)
+  ![](/assets/img/uploads/okrtram.jpeg)
 
 
-  TFL is struggling for survival. The COVID pandemic has destroyed its finances and business model and forced it to beg for government handouts for its day to day survival.
+  TFL is struggling for survival. The COVID pandemic has destroyed its business model and forced it to rely on government handouts for its day-to-day survival.
 
 
   The Bakerloo line extension will not be happening any time soon.
@@ -15,19 +15,15 @@ intro_paragraph: >-
 
   An alternative plan is needed to regenerate the Old Kent Road.
 
-   is an alternative plan to regenerate the Old Kent Road, which is not predicated on the speculative ..
 
-  Such development creates huge pressures on local .. rising rents.. displacement of existing low income communities.
-
-
-  More organic and sustainable approach
+  An alternative which is not predicated on speculative housing developments for overseas investors and which ends up displacing the existing low-income community as a result of rising rents.
 
 
-  Lower cost and much less disruption
+  An alternative, more organic and sustainable approach is required at lower cost and with much less disruption.
 
 
-  Linking New Cross with Elephant and Castle
+  Instead of a tube line we propose a tram link between New Cross and the Elephant and Castle.
 
 
-  OKR is particularly suited to a tram link because of its width and lack of bends.
+  Old Kent Road is particularly suited to a tram link because of its width and lack of bends.
 ---
