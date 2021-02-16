@@ -4,15 +4,21 @@ title: An Alternative Old Kent Road
 permalink: /
 section: home
 intro_paragraph: >-
-  As a result of the COVID-19 pandemic, TFL is struggling for survival. 
+  ![](/assets/img/uploads/okr.gif)
 
 
-  Alternative Old Kent Road is an alternative plan to regenerate the Old Kent Road, which is not predicated on the speculative ..
+  TFL is struggling for survival. The COVID pandemic has destroyed its finances and business model and forced it to beg for government handouts for its day to day survival.
 
+
+  The Bakerloo line extension will not be happening any time soon.
+
+
+  An alternative plan is needed to regenerate the Old Kent Road.
+
+   is an alternative plan to regenerate the Old Kent Road, which is not predicated on the speculative ..
 
   Such development creates huge pressures on local .. rising rents.. displacement of existing low income communities.
 
-    
 
   More organic and sustainable approach
 
