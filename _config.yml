@@ -82,3 +82,11 @@ exclude:
   - vendor/cache/
   - vendor/gems/
   - vendor/ruby/
+  
+  - label: "Testimonials"
+name: "testimonials"
+minimize_collapsed: true
+widget: "list"
+fields:
+  - {label: Quote, name: quote, widget: string, default: "Everything is awesome!"}
+  - {label: Author, name: author, widget: string }
