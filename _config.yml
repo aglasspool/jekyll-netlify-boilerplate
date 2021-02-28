@@ -84,10 +84,17 @@ exclude:
   - vendor/ruby/
   
 collections:
-  - label: "Testimonials"
-  name: "testimonials"
-  minimize_collapsed: true
-  widget: "list"
-  fields:
-    - {label: Quote, name: quote, widget: string, default: "Everything is awesome!"}
-    - {label: Author, name: author, widget: string }
+  - name: "data"
+    label: "Data"
+    files:
+      - name: "company"
+        label: "Company"
+        file: "_data/links.yml"
+        extension: "yml"
+        fields:
+          - name: "links"
+            label: "Links"
+            widget: "list"
+            fields:
+              - {label: "Name", name: "name", widget: "string"}
+              - {label: "Link", name: "link", widget: "string"}
