@@ -84,7 +84,7 @@ exclude:
   - vendor/ruby/
   
 collections:
- - name: 'settings'
+  - name: 'settings'
     label: 'Settings'
     delete: false # Prevent users from deleting documents in this collection
     editor:
